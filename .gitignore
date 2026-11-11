@@ -1,0 +1,7 @@
+.DS_Store
+.idea/
+*.iml
+backend/vendor/
+backend/node_modules/
+mobile/build/
+mobile/.dart_tool/
